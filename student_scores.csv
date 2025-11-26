@@ -1,0 +1,21 @@
+student_id,gender,study_group,math_score,reading_score,science_score
+1,F,Group A,78,82,80
+2,M,Group B,65,70,68
+3,F,Group A,92,88, ninety
+4,M,Group C,55,60,58
+5,F,Group B,88,90,85
+6,M,Group A,72,68,70
+7,F,Group C,60,74,72
+8,M,Group B,81,78,80
+9,F,Group A,95,92,94
+10,M,Group C,68,66,70
+11,F,Group B,74,80,78
+12,M,Group A,58,54,60
+13,F,Group C,82,86,84
+14,M,Group B,90,88,92
+15,F,Group A,69,72,70
+16,M,Group C,76,74,78
+17,F,Group B,87,90,89
+18,M,Group A,63,60,65
+19,F,Group C,91,94,92
+20,M,Group B,79,82,80
